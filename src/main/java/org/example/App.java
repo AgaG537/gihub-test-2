@@ -6,6 +6,7 @@ package org.example;
  */
 public class App 
 {
+    //wyswietlanie hello world - intellij
     public static void main( String[] args )
     {
         System.out.println( "Hello World!" );
