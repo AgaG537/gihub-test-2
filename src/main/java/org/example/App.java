@@ -1,15 +1,12 @@
 package org.example;
 
 /**
- * Hello world!
- *
+ * Hello world.
  */
-public class App 
-{
-    //wyswietlanie hello world - intellij
-    public static void main( String[] args )
-    {
-        //printowanie hello world - strona
-        System.out.println( "Hello World!" );
-    }
+public class App {
+  //wyswietlanie hello world - intellij
+  public static void main(String[] args) {
+    //printowanie hello world - strona
+    System.out.println("Hello World!");
+  }
 }
