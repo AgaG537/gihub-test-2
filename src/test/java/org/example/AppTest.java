@@ -19,7 +19,9 @@ public class AppTest
   }
 
   /**
-   * @return the suite of tests being tested
+   * Returns a test suite containing all test cases from the AppTest class.
+   *
+   * @return the suite of tests being tested.
    */
   public static Test suite() {
     return new TestSuite(AppTest.class);
